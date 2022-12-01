@@ -5,3 +5,10 @@ for(let i=0;i<=num;i++){
        v+=1;
    }
 }
+
+if(v==2){
+console.log("Prime No");
+}
+else{
+console.log("not Prime No");
+}
